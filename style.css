@@ -1,0 +1,31 @@
+#quote{
+    font-style: normal;
+    color:  rgb(154, 190, 218);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+}
+
+#details{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#det{
+    font-family: cursive;
+}
+.pers{
+    font-family: cursive;
+}
+#resume{
+    text-decoration: none;
+
+}
+#resume:hover{
+    color: blue;
+
+}
+#game{
+    text-decoration: none;
+}
+#foot{
+    margin-top: 0;
+    margin: bottom 0;
+}
