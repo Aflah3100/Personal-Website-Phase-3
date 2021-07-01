@@ -47,7 +47,7 @@ function Date_Generator(){
     (date<10)?date='0'+date:date;
    
     document.getElementById('date').innerHTML=date;
-    document.getElementById('month').innerHTML=" -"+month;
+    document.getElementById('month').innerHTML=" -"+(month+1);
     document.getElementById('year').innerHTML="-"+year;
 }
 
